@@ -4,7 +4,7 @@ I created a carousel made from cardboard using an Arduino board and servo motor 
 |:--:|:--:|:--:|:--:|
 | Lillianette Vega| East Upper School | Mechanical Engineering | Senior 
 
-![Relevant Name]https://live.staticflickr.com/65535/55672036296_ffd7c578a7_n.jpg
+![Relevant Name](https://live.staticflickr.com/65535/55672036296_ffd7c578a7_n.jpg)
 
 # Final Milestone
 # First Milestone
